@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Shahrukh Hussain! 👋
 
-<!--
-**Shahrukh-Hussain-1999/Shahrukh-Hussain-1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I'm a passionate Web Developer specializing in Laravel and AJAX. I love building dynamic, responsive websites that help businesses grow and thrive digitally.
 
-Here are some ideas to get you started:
+## 💼 Skills
+- **Languages**: HTML, CSS, JavaScript, PHP
+- **Frameworks**: Laravel, jQuery, Bootstrap
+- **Tools**: Git, GitHub, VS Code, MySQL
+- **Other**: AJAX, REST APIs, Responsive Design
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 How to Reach Me
+- **Email**: hshahrukh256@gmail.com
+- **LinkedIn**: [Shahrukh](https://www.linkedin.com/in/shahrukh-hussain-developer)
+- **Twitter**: [@Hussain77Saif](https://x.com/Hussain77Saif)
